@@ -1,2 +1,2 @@
 # bank-churn-analysis
-pulling data using Python + introduction to a prediction model
+pulling data using Pandas + introduction to a prediction model
