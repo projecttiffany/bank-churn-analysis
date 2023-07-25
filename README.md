@@ -15,4 +15,6 @@ Using a large dataset from a major bank company, the objective was to pull data 
 - Age and Balance have a high positive correlation, therefore it is the most important metric to predicting loyal new customers. When analyzing the breakdown of gender and salary, the best demographic of customers who do not churn are men and women over 40 with estimated salaries of $100K.
 
   ![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/9bb0d215-3dc0-4c05-a3ca-07c6f4313cbd)<br>
-  
+
+  - To plot all relationships between variables
+![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/c859f207-ed8f-430d-9d1c-f77477b4d9c8)
