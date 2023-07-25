@@ -7,7 +7,7 @@ Using a large dataset from a major bank company, the objective was to pull data 
 
 <br>*dataframe information*</br>
 
-# Key Insights & Recommendations
+### Key Insights & Recommendations
 
 ### Correlation Analysis of 'Exited' variable
 ![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/f5e8f591-04c4-48e9-b6ac-3cc2bdb892ec)<br>
