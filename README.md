@@ -1,6 +1,6 @@
 # bank-churn-analysis
 ## Summary 
-Using a large dataset from a major bank company, the objective was to pull data using Pandas, evaluate and create a basic prediction model of customer churn (indicated as '1' in 'Exited' columun)
+Using a large dataset from a major bank company, the objective was to pull data using Pandas, evaluate and then create a basic prediction model of customer churn (indicated as '1' in 'Exited' columun). <br> *Note: I'm better at setting up the analysis and pulling business insights using python. Although data science is not my main focus, I still find it useful to retain the basic steps of building a prediction model to think through what questions I need to consider about it.*</br>
 
 ![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/2fd1a6e3-c3c7-409b-bfe2-b7743371ea1c)<br>
 ![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/6cb9229b-e1e7-4fb5-97ac-87433fae2a4c)</br>
@@ -16,5 +16,5 @@ Using a large dataset from a major bank company, the objective was to pull data 
 
   ![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/9bb0d215-3dc0-4c05-a3ca-07c6f4313cbd)<br>
 
-  - To plot all relationships between variables
+  - All relationships between Exited variable
 ![image](https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/c859f207-ed8f-430d-9d1c-f77477b4d9c8)
