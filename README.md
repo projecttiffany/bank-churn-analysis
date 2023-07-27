@@ -14,7 +14,8 @@ Using a large dataset from a major bank company, the objective was to pull data 
 - Creating a visualization with the Pearsons Correlation coefficient (x-axis) we can better understand which numerical variables are dependent on the Exited values.
 - Age and Balance have a high positive correlation, therefore it is the most important metric to predicting loyal new customers. When analyzing the breakdown of gender and salary, the best demographic of customers who do not churn are men and women over 40 with estimated salaries of $100K.</br>
 
- <br><img width="181" alt="image" src="https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/1367a15c-c3e9-480b-9828-131f23b5e7c9"></br>
+ <br><img width="175" alt="image" src="https://github.com/projecttiffany/bank-churn-analysis/assets/51961132/2bd4e8f0-ddaa-4b2a-ab67-8f231e91dd42">
+</br>
 
 
   - All relationships between Exited variable for a birdseye view
